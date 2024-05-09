@@ -10,9 +10,9 @@ JavaScript, npm, Webpack, indexed.db, ServiceWorker
 
 ## URLs
 
-Deployed Application Link URL:
+Deployed Application Link URL: https://api-text-editor-5486a56c3406.herokuapp.com/
 
-GitHub Repository Link URL:
+GitHub Repository Link URL: https://github.com/MrOahu/David-Wright-Text-Editor
 
 ## Author
 
